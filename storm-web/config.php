@@ -2,8 +2,8 @@
 
 $CONFIG = array (
     "admin" => [
-        "fullname" => "khan", 
-        "password" => "mr",
+        "fullname" => "mr", 
+        "password" => "admin",
     ], 
     
 );
