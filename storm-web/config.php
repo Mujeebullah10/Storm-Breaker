@@ -2,7 +2,7 @@
 
 $CONFIG = array (
     "admin" => [
-        "fullname" => "hacker", 
+        "fullname" => "hack", 
         "password" => "admin",
     ], 
     
